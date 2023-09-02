@@ -24,9 +24,3 @@ Robust data preprocessing techniques, including stemming and other NLP processes
 
 The performance of the models is assessed using relevant NLP metrics such as accuracy, precision, recall, and F1-score for sentiment analysis, and accuracy, false positives, and false negatives for spam detection.
 
-## GitHub Repository
-
-You can access the project code, datasets, and detailed documentation in my GitHub repository: [GitHub/yourusername/Sentiment-Spam-NLP-Project](https://github.com/yourusername/Sentiment-Spam-NLP-Project)
-
-## Tags
-#sentimentanalysis #spamdetection #naturallanguageprocessing #nlp #stemming
